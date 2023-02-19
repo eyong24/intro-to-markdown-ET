@@ -118,3 +118,8 @@ __NOTE__: We can add a baloon tip description to our link by using double quotes
      5.2  this is our list item 2 child item 2
 
 ---
+
+**NOTE**: *__Backtics__ will allow us to show the code block or the paragraph tags in this example. It is located below the tlide character and on topof the tab key.*
+<!--code ock inline example rule-->
+
+`<p> This is a paragram tag with an inline code block example and cosing tag </p>`
