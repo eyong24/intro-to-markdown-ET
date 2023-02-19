@@ -52,6 +52,11 @@ This is an example of a *text with an asterisk* When we don't want it to be ital
 
 > "You don't have to be great to start, but you need to start to be great." - __Unknown Author__
 
+<!--Link Rule-->
+
+**NOTE**: We would want to put the link desciption inside of square bracketand the ink to the resource inside of two open and close parenthesis.
+[RBSLOPEZ_pexels_collection_profile](https://www.pexels.com/@rodrigo-bonzerr-s-lopez-462356/)
+
 
 
 
