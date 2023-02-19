@@ -41,7 +41,10 @@ We can add triple hypens to be able to create a horizontal rule for separating c
 Another way to add __HORIZONTAL RULES__ in our documents markdown is by using three underscores
 ___
 
+<!--Escape Characr Rule Using Backslash-->
 
+This is an example of a *text with an asterisk* When we don't want it to be italicized. We want to  the backlash \ to escape the rule of using an opening \*asterisk* and closing \*asterisk*
+ to inclose the text without contents.
 
 
 
