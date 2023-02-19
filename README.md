@@ -46,12 +46,15 @@ ___
 This is an example of a *text with an asterisk* When we don't want it to be italicized. We want to  the backlash \ to escape the rule of using an opening \*asterisk* and closing \*asterisk*
  to inclose the text without contents.
 
+---
+
 <!--Blockquote Rule-->
 
 > We use the greater than symbol to display a block of texas a quiate with a background and line on the left side.
 
 > "You don't have to be great to start, but you need to start to be great." - __Unknown Author__
 
+---
 <!--Link Rule-->
 
 **NOTE**: We would want to put the link desciption inside of square bracketand the ink to the resource inside of two open and close parenthesis.
@@ -60,6 +63,58 @@ This is an example of a *text with an asterisk* When we don't want it to be ital
 __NOTE__: We can add a baloon tip description to our link by using double quotes after the link to the resource
 [RBSLOPEZ_pexels_collection_profile](https://www.pexels.com/@rodrigo-bonzerr-s-lopez-462356/ "This is RBSLOPEX pexel photo collection")
 
+---
 
+<!--list item rules-->
 
+<!--UNORDERED LIST-->
 
+* Item 1 - This is going to be our list item 1
+  *  this is our list item 1 child item 1
+  *  this is our list item 2 child item 2
+* Item 2 - This is going to be our list item 2
+  *  this is our list item 1 child item 1
+  *  this is our list item 2 child item 2
+* Item 3 - This is going to be our list item 3
+  *  this is our list item 1 child item 1
+  *  this is our list item 2 child item 2
+* Item 4 - This is going to be our list item 4
+  *  this is our list item 1 child item 1
+  *  this is our list item 2 child item 2
+* Item 5 - This is going to be our list item 5
+  *  this is our list item 1 child item 1
+  *  this is our list item 2 child item 2
+
+<!--ordered list-->
+
+1. Item 1 - This is going to be our list item 1
+  
+     1.1 this is our list item 1 child item 1
+  
+     1.2  this is our list item 2 child item 2
+  
+2. Item 2 - This is going to be our list item 2
+
+     2.1  this is our list item 1 child item 1
+  
+     2.2  this is our list item 2 child item 2
+  
+3. Item 3 - This is going to be our list item 3
+
+     3.1  this is our list item 1 child item 1
+  
+     3.2  this is our list item 2 child item 2
+  
+4. Item 4 - This is going to be our list item 4
+
+     4.1  this is our list item 1 child item 1
+  
+     4.2  this is our list item 2 child item 2
+  
+5. Item 5 - This is going to be our list item 5
+
+     5.1  this is our list item 1 child item 1
+   
+     5.2  this is our list item 2 child item 2
+
+---
