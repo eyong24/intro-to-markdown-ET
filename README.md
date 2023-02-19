@@ -123,3 +123,16 @@ __NOTE__: We can add a baloon tip description to our link by using double quotes
 <!--code ock inline example rule-->
 
 `<p> This is a paragram tag with an inline code block example and cosing tag </p>`
+
+---
+
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+<!--CODE BLOCKS FOR GITHUB DOCUMENTATION-->
+
+```bash
+npm install
+
+npm start
+```
+
+
