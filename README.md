@@ -157,6 +157,12 @@ def pythonAdd(num1,num2):
 
 ```
 
+<!--Table rules-->
 
+| Name | Nickname | Email |
+|------|----------|---------------------|
+|Emilio| Tubao    |emiliotubao@gmail.com|
+|Eyong | Tubao    |eyongtubao@gmail.com |
+|Yawnskii|Perdon  |yawnskiiperdon@gmail.com|
 
 
