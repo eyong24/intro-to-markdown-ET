@@ -23,3 +23,14 @@ _This is going to be a paragraph that is using italic styling_
 
 ***
 
+<!--Strong-->
+
+This is an example of **strong text** , anything between the two opening asterisk and closing asterisk will be display as **strong text**
+
+Tis is another example of a way to have __strong text in our document. Anything between the two double opening underscore and closng underscore will be displayed as __strong text__
+
+
+
+
+
+
