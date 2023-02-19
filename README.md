@@ -46,7 +46,11 @@ ___
 This is an example of a *text with an asterisk* When we don't want it to be italicized. We want to  the backlash \ to escape the rule of using an opening \*asterisk* and closing \*asterisk*
  to inclose the text without contents.
 
+<!--Blockquote Rule-->
 
+> We use the greater than symbol to display a block of texas a quiate with a background and line on the left side.
+
+> "You don't have to be great to start, but you need to start to be great." - __Unknown Author__
 
 
 
